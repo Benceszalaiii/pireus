@@ -1,0 +1,9 @@
+@import url('https://fonts.googleapis.com/css2?family=Pattaya&family=Teko:wght@300..700&family=Titan+One&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Pattaya');
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+.pireus {
+    font-family: 'Pattaya', cursive !important;
+
+}
