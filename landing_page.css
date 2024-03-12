@@ -56,7 +56,7 @@ body {
     background-image: var(--stripes), var(--rainbow);
     background-size: 200%, 100%;
     animation: jumbo 60s linear infinite;
-    background-attachment: fixed;
+    /* background-attachment: fixed; */
     mix-blend-mode: difference;
 }
 
