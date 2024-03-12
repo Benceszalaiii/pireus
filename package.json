@@ -4,7 +4,7 @@
   "description": "",
   "main": "app.js",
   "scripts": {
-    "watch": "postcss ./src/css/tailwind.css -o ./src/css/output.css --watch "
+    "watch": "postcss ./tailwind.css -o ./output.css --watch "
   },
   "repository": {
     "type": "git",
